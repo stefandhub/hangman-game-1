@@ -1,0 +1,25 @@
+{
+  "name": "hangman-game-1",
+  "version": "1.0.0",
+  "description": "Hangman is a simple game that revolves around guessing a randomly chosen word.",
+  "main": "script.js",
+  "dependencies": {
+    "D": "^1.0.0",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefandhub/hangman-game-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefandhub/hangman-game-1/issues"
+  },
+  "homepage": "https://github.com/stefandhub/hangman-game-1#readme"
+}
